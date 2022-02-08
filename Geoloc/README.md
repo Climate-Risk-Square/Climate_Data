@@ -1,1 +1,0 @@
-This is a beautifull readme for the Geoloc project.
